@@ -1,2 +1,2 @@
-# NO.1-repository
+## NO.1-repository
 My first repository!
