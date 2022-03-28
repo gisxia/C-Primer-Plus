@@ -1,6 +1,3 @@
-## My first repository!
-```C
-这里用于存放我在学习《C Primer Plus》
-期间的一些代码。
-```
+# What do you want to do?
+Give yourself a nice answer!
 
